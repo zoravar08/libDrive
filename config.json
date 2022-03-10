@@ -1,0 +1,54 @@
+{
+    "access_token": "ya29.A0ARrdaM_robmoQtvUkRG3BFbvsnjNPNHw0kbvxOfN7J-vKr_lrECvAZfyUjG0BlL3-VJXNH7ZwulyPcBwRbHv_paFmU5X88iOMOTQuw7rzANjtcm7npOFBHzxLXpIeKwygZImIcRd7uuseYAYQiL4X1rM8oOh",
+    "account_list": [
+        {
+            "username": "anil",
+            "password": "Rana08anil$!",
+            "pic": "",
+            "auth": "hf512ac3cb181u5xyq4njg13eqq4ocd9xyg2856s4k1tmf557h"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1uNCFos2ol343MrI-fb7F-EJKrUx7_Do5",
+            "language": "en",
+            "name": "Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": true,
+            "id": "1Dawit0q8MiBZMu-SBOAQ2l07pmcHu-xZ",
+            "language": "en",
+            "name": "TV Shows",
+            "type": "TV Shows"
+        }
+    ],
+    "client_id": "69845715874-vh16felu39q0gg172re94h09aupso0l7.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "https://moviebeeclub.zoravar.workers.dev/",
+    "fetch_assets": "false",
+    "refresh_token": "1//0gwChP2Uxzsp1CgYIARAAGBASNwF-L9Irfmtol8B11YrvPGaQdERDGu_C0aW43pSw3oBETrZmsKnxpGFEG2gKXabIdxrhr3F_W4I",
+    "remove_duplicates": "false",
+    "remove_no_poster": "false",
+    "secret_key": "anil",
+    "tmdb_api_key": "90ea4563a407d73d56299956b8b0c564",
+    "token_expiry": "",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "transcoded": "true",
+    "service_accounts": [],
+    "signup": true,
+    "ui_config": {
+        "custom_button": {},
+        "title": "Movie Bee Club",
+        "icon": "https://moviebee.club/wp-content/uploads/2022/02/videologo.png"
+    }
+}
